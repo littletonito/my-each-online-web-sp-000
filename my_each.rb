@@ -2,7 +2,7 @@ def my_each(array) # put argument(s) here
   # code here
   count = 0
 
-  while < array.size
+  while  array.size
     yield(array)
     count += 1
   end
